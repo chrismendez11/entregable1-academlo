@@ -12,7 +12,8 @@ html {
 .card__container {
     margin: 0 auto;
     padding: 20px;
-    width: 600px;
+    width: 100%;
+    max-width: 600px;
     height: 200px;
     display: flex;
     flex-direction: column;
